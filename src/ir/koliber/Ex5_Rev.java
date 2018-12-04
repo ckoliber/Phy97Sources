@@ -2,7 +2,7 @@ package ir.koliber;
 
 import java.util.Scanner;
 
-public class Main {
+public class Ex5_Rev {
 
     static String reverse(String s){
         String result = "";
